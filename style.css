@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: "Oufit", sans-serif;
+    background-color: hsl(212, 45%, 89%);
+  }
+
+  .container{
+    margin: 100px auto;
+    width: 300px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: hsl(0, 0%, 100%);
+  }
+
+  .container-img img{
+    width: 280px;
+    border-radius: 10px;
+  }
+
+  .container-info{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .container-heading{
+    color: hsl(218, 44%, 22%);
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 20px;
+  }
+
+  .container-subheading{
+    color: hsl(216, 15%, 48%);
+    margin-top: 13px;
+    margin-bottom: 25px;
+    font-size: 15px;
+  }
+
+  
+
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
